@@ -1,0 +1,25 @@
+{
+  "urs": [
+    {
+      "name": "Rishab",
+      "email": "rishab@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "Tanmay",
+      "email": "rahul@gmail.com",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Task B",
+      "description": "This is the Task B",
+      "dueDate": "2023-09-25",
+      "priority": "Low",
+      "id": 2
+    }
+  ]
+}
